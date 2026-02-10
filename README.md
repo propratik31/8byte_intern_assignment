@@ -95,10 +95,14 @@ Workflow file location:- .github/workflows/ci.yml
 
 
 ### Screenshots
-Terraform apply output
-EC2 instance running
-Application running in browser
-Successful GitHub Actions workflow
+Terraform apply output:- <img width="1276" height="747" alt="terraform output" src="https://github.com/user-attachments/assets/23404187-5521-4bcf-bc0f-05e8bd1a9204" />
+
+Docker Image and Container:- <img width="1853" height="277" alt="docker image and container" src="https://github.com/user-attachments/assets/044c15e1-bf88-442f-93ab-be2cc5798f5f" />
+ 
+Application running in browser:- <img width="1917" height="256" alt="Final output" src="https://github.com/user-attachments/assets/813f7b13-915d-4425-87c7-88794861f37f" />
+
+Successful GitHub Actions workflow:- <img width="1916" height="713" alt="workflow" src="https://github.com/user-attachments/assets/033b6f68-68e3-49c0-aa5b-9b4110a39d14" />
+
 
 ### Conclusion
 
